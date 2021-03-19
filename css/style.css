@@ -48,6 +48,7 @@ body{
    border-radius: 4px;
    margin-top: 20px;
    transition: .4s;
+   cursor: pointer;
 }
 #btn:hover{
     color: #fff;
